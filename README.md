@@ -1,20 +1,18 @@
-<a name="header"/>
+
 
 # Blender-renderfarm
 the code to render any blender project with google colab
 
-<a name="loc"/>
 
 ## **list of contents**
 
-- [**list of contents**](loc)
-- [**How to use it**](howtouseit)
-  - [One Frame Rendering](ofr)
-  - [Animation Rendering](ar)
-- [**Update**](update)
-- [**Help**](help)
+- [**list of contents**](#list-of-contents)
+- [**How to use it**](#how-to-use-it)
+  - [One Frame Rendering](#one-frame-rendering)
+  - [Animation Rendering](#animation-rendering)
+- [**Update**](#update)
+- [**Help**](#help)
 
-<a name="howtouseit"/>
 
 ## **How to use it**
 
@@ -40,7 +38,6 @@ the code to render any blender project with google colab
 There are 2 option of rendering
 <br><br>
 
-<a name="ofr"/>
 
 ### **One Frame Rendering**
 in this option, there are **4** types of setting that you must to know about it
@@ -83,7 +80,7 @@ if you done with the settings, you can run it and wait for the result
 ---
 
 <br>
-<a name="ar"/>
+
 
 ### **Animation Rendering**
 this option is usually use to render multiple frame, such as animation, image sequence , etc. <br> there are **6** types of setting that you must to know about it
@@ -140,13 +137,12 @@ you can change this option by clicking the option and choose the format you want
 if you done with the settings, you can run it and wait for the result
 
 ---
-<a name="update"/>
+
 
 ## Update
 
 Update every 5 months
 
-<a name="help"/>
 
 ## Help
 
