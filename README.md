@@ -35,7 +35,7 @@ the code to render any blender project with google colab
 - on **`Data`**, you need a permission for Google Drive Access, just Accept it
 
 
-There are 2 option of rendering
+There are 2 options of rendering
 <br><br>
 
 
