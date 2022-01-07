@@ -1,4 +1,4 @@
 # These are supported funding model platforms
 
-github: [rstusoftdev]
+github: rstusoftdev
 custom: ['https://t.ly/rstuteam/blender-renderfarm/googlecolab', 'https://t.ly/rstuteam/blender-renderfarm/download']
